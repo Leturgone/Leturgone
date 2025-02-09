@@ -39,9 +39,3 @@
 
 ###
 
----
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/D1fxWQ33oMYAAAAC/meme.gif" width="600" height="300"/>
-</div>
-
