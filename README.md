@@ -8,14 +8,14 @@
 
 ###
 
-## 🚀 Мои проекты
+## Мои проекты
 
 <!-- ANDROID_PROJECTS_START -->
-### 📱 Android проекты
+### Android 
 
 | | |
 | :--- | :--- |
-| **📱 [Android App 1](https://github.com/yourusername/android-project-1)**<br>Современное Android приложение<br> `Kotlin` `Jetpack Compose` `Room` | **🎮 [Android Game](https://github.com/yourusername/android-game)**<br>2D игра для Android<br> `Java` `LibGDX` `Box2D` |
+|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" /> ![ComicTrack](https://github.com/Leturgone/ComicTrack)<br>Android app for tracking series for comics<br> `Kotlin` `Clean Architecture` `MVI` `Retrofit` `Room` `DaggerHilt` `JetpackCompose` | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" />![EmployeeTaskReg](https://github.com/Leturgone/EmployeeTaskReg)<br>Android app for tracknig team tasks<br>`MVVM` `Retrofit` `Room` `DaggerHilt` `JetpackCompose` |
 <!-- ANDROID_PROJECTS_END -->
 
 <!-- BACKEND_PROJECTS_START -->
