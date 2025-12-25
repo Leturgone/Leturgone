@@ -24,7 +24,7 @@
 
 | | |
 | :--- | :--- |
-|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" /> ![MusicPlaylistsMicroservice](https://github.com/Leturgone/MusicPlaylistsMicroservice)<br>REST API for music playlists service<br> `Microservice` `SpringBoot` `Ktor` `PostgreSQL` `RabbitMQ` `Grafana` `Prometheus` `Loki` `Promtail`  `Docker` `CI\CD` |<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" /> ![MusicPlaylistsMicroservice](https://github.com/Leturgone/MusicPlaylistsMicroservice)<br>REST API for EmployeeTaskReg<br> `Ktor` `PostgreSQL` `Exposed` `Koin` `Docker` |
+|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" /> ![MusicPlaylistsMicroservice](https://github.com/Leturgone/MusicPlaylistsMicroservice)<br>REST API for music playlists service<br> `Microservice` `SpringBoot` `Ktor` `PostgreSQL` `RabbitMQ` `Grafana` `Prometheus` `Loki` `Promtail`  `Docker` `CI\CD` |<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" /> ![EmployeeTaskRegApi](https://github.com/Leturgone/EmployeeTaskRegApi)<br>REST API for EmployeeTaskReg<br> `Ktor` `PostgreSQL` `Exposed` `Koin` `Docker` |
 <!-- BACKEND_PROJECTS_END -->
 
 ###
