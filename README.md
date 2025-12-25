@@ -8,22 +8,23 @@
 
 ###
 
-## Мои проекты
+## My projects
 
 <!-- ANDROID_PROJECTS_START -->
-### Android 
+### Android projects
 
 | | |
-| :--- | :--- |
-|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" /> ![ComicTrack](https://github.com/Leturgone/ComicTrack)<br>Android app for tracking series for comics<br> `Kotlin` `Clean Architecture` `MVI` `Retrofit` `Room` `DaggerHilt` `JetpackCompose` | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" />![EmployeeTaskReg](https://github.com/Leturgone/EmployeeTaskReg)<br>Android app for tracknig team tasks<br>`MVVM` `Retrofit` `Room` `DaggerHilt` `JetpackCompose` |
+| --- | --- |
+|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" /> ![ComicTrack](https://github.com/Leturgone/ComicTrack)<br>App for tracking series for comics<br> `Clean Architecture` `MVI` `Retrofit` `Room` `DaggerHilt` `JetpackCompose` | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" />![EmployeeTaskReg](https://github.com/Leturgone/EmployeeTaskReg)<br>App for tracknig team tasks<br>`Clean Architecture` `MVVM` `Retrofit` `Room` `DaggerHilt` `JetpackCompose` |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" />![DropEnergy](https://github.com/Leturgone/DropEnergy)<br>App that helps users quit drinking energy drinks<br>`MVVM` `Retrofit` `Firebase` `Koin` `JetpackCompose` | <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="20" height="20" alt="JavaScript" />![MovieLib](https://github.com/Leturgone/MovieLib)<br>App that provides information about movies<br>`XML` `SQLite` `RecyclerView` |  
 <!-- ANDROID_PROJECTS_END -->
 
 <!-- BACKEND_PROJECTS_START -->
-### ⚙️ Backend проекты
+### Backend projects
 
 | | |
 | :--- | :--- |
-| **⚙️ [Backend API](https://github.com/yourusername/backend-api)**<br>Масштабируемый REST API<br> `Python` `FastAPI` `PostgreSQL` | **🔧 [MusicPlaylistsMicroservice](https://github.com/Leturgone/MusicPlaylistsMicroservice)**<br>Система микросервисов для муз сервиса<br> `Kotlin` `SpringBoot` `Ktor` `RabbitMQ` `PostgreSQL` `Docker` |
+|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" /> ![MusicPlaylistsMicroservice](https://github.com/Leturgone/MusicPlaylistsMicroservice)<br>REST API for music playlists service<br> `Microservice` `SpringBoot` `Ktor` `PostgreSQL` `RabbitMQ` `Grafana` `Prometheus` `Loki` `Promtail`  `Docker` `CI\CD` |<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" /> ![MusicPlaylistsMicroservice](https://github.com/Leturgone/MusicPlaylistsMicroservice)<br>REST API for EmployeeTaskReg<br> `Ktor` `PostgreSQL` `Exposed` `Koin` `Docker` |
 <!-- BACKEND_PROJECTS_END -->
 
 ###
