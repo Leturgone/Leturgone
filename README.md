@@ -26,7 +26,7 @@
 
 | | |
 | :--- | :--- |
-|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" /> ![MasterPlanApi]()<br>REST API for MasterPlan<br> `Modulith` `SpringBoot` ` Spring Modulith` `PostgreSQL` `Apache POI` `Swagger UI` `Grafana` `Loki` `Promtail`  `Docker` `CI\CD` `JUnit` `MockK` `gh pages` 
+|<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" /> ![MasterPlanApi](https://github.com/Leturgone/MasterPlanApi)<br>REST API for MasterPlan<br> `Modulith` `SpringBoot` ` Spring Modulith` `PostgreSQL` `Apache POI` `Swagger UI` `Grafana` `Loki` `Promtail`  `Docker` `CI\CD` `JUnit` `MockK` `gh pages` 
 |<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" /> ![MusicPlaylistsMicroservice](https://github.com/Leturgone/MusicPlaylistsMicroservice)<br>REST API for music playlists service<br> `Microservice` `SpringBoot` `Ktor` `PostgreSQL` `RabbitMQ` `Grafana` `Prometheus` `Loki` `Promtail`  `Docker` `CI\CD` |<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="20" height="20" alt="JavaScript" /> ![EmployeeTaskRegApi](https://github.com/Leturgone/EmployeeTaskRegApi)<br>REST API for EmployeeTaskReg<br> `Ktor` `PostgreSQL` `Exposed` `Koin` `Docker` |
 <!-- BACKEND_PROJECTS_END -->
 
